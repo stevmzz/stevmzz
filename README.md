@@ -29,17 +29,7 @@ My goal is to contribute significantly to innovative projects that have a positi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevmzz&layout=compact&theme=graywhite&hide_border=true" />
 </div>
 
-## Featured Projects
 
-<div align="center">
-
-| SocialTec | Expression Calculator |
-|:-------------------------:|:-------------------------:|
-| **SocialTec - Graph-Based Social Network** | **Expression Calculator** |
-| A sophisticated social network platform built on graph data structures. Implements client/server architecture with TCP sockets, secure authentication protocols, and comprehensive user analytics. Features an intuitive Python GUI for seamless user interaction and relationship management algorithms. | Advanced calculator application based on binary expression trees that supports algebraic and logical operations. Employs a client/server architecture using TCP sockets for remote calculations, with an efficient parsing algorithm for complex mathematical expressions. |
-| [![Code](https://img.shields.io/badge/Code-212121?style=for-the-badge&logo=github)](https://github.com/stevmzz/socialtecDatos1) ![Python](https://img.shields.io/badge/-Python-212121?style=flat-square&logo=python) ![Networking](https://img.shields.io/badge/-TCP/IP-212121?style=flat-square&logo=cisco) | [![Code](https://img.shields.io/badge/Code-212121?style=for-the-badge&logo=github)](https://github.com/stevmzz/expressionCalculatorDatos1) ![C#](https://img.shields.io/badge/-C%23-212121?style=flat-square&logo=csharp)
-
-</div>
 
 ---
 
