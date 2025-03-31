@@ -4,7 +4,7 @@
 
 ---
 
-Passionate developer focused on creating innovative technological solutions. Specialized in modern development and software architecture. Committed to technical excellence and high-quality product delivery.
+Passionate developer focused on creating innovative technological solutions. Committed to technical excellence and high-quality product delivery.
 
 ## About Me
 
