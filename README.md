@@ -1,15 +1,20 @@
 # Steven Aguilar
-
 **Computer Engineering Student | Costa Rica Institute of Technology**
-
 ---
 
-Passionate developer focused on creating innovative technological solutions. Committed to technical excellence and high-quality product delivery.
+<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
+  <tr style="border:none;">
+    <td width="70%" style="border:none; vertical-align:middle;">
+      Passionate developer focused on creating innovative technological solutions. Committed to technical excellence and high-quality product delivery.
+    </td>
+    <td width="30%" style="border:none; text-align:right;">
+      <img src="codingGIF.gif" width="100%" alt="Coding Animation">
+    </td>
+  </tr>
+</table>
 
 ## About Me
-
 I am a Computer Engineering student at Costa Rica Institute of Technology (TEC). My focus is on building scalable, high-performance applications using best practices and modern technologies. Passionate about solving complex problems and continuous learning.
-
 My goal is to contribute significantly to innovative projects that have a positive impact and to solve complex technological challenges through elegant and efficient solutions.
 
 ## Technical Skills
@@ -29,10 +34,7 @@ My goal is to contribute significantly to innovative projects that have a positi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevmzz&layout=compact&hide_border=true&title_color=ffffff&text_color=cccccc&bg_color=000000" />
 </div>
 
-
-
 ---
-
 <div align="center">
   <p>© 2025 Steven Aguilar - All Rights Reserved</p>
 </div>
