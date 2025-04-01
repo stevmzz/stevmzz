@@ -1,21 +1,28 @@
 # Steven Aguilar
 **Computer Engineering Student | Costa Rica Institute of Technology**
 ---
+Passionate developer focused on creating innovative technological solutions. Committed to technical excellence and high-quality product delivery.
+## About Me
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse:collapse;">
-  <tr style="border:none;">
-    <td width="70%" style="border:none; vertical-align:middle;">
-      Passionate developer focused on creating innovative technological solutions. Committed to technical excellence and high-quality product delivery.
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="padding: 20px;">
+      Computer Engineering student at Costa Rica Institute of Technology (TEC) with a passion for creating innovative solutions through technical excellence. I'm developing expertise in full-stack development while pursuing a vision to lead impactful, well-crafted projects.
+      <br><br>
+      What drives my approach to technology:
+      <ul>
+        <li><b>Excellence in execution</b> - Committed to writing clean, efficient code and delivering high-quality solutions</li>
+        <li><b>Organizational mindset</b> - Maintaining structured systems and methodical problem-solving approaches</li>
+        <li><b>Balanced perspective</b> - Equal appreciation for aesthetic design and robust technical architecture</li>
+        <li><b>Leadership potential</b> - Developing skills to guide collaborative teams toward successful outcomes</li>
+        <li><b>Continuous learning</b> - Constantly exploring new technologies and methodologies for growth</li>
+      </ul>
     </td>
-    <td width="30%" style="border:none; text-align:right;">
-      <img src="codingGIF.gif" width="100%" alt="Coding Animation">
+    <td width="300" align="center" style="padding: 20px;">
+      <img src="codingGIF (1).gif" alt="Coding Animation" width="350">
     </td>
   </tr>
 </table>
-
-## About Me
-I am a Computer Engineering student at Costa Rica Institute of Technology (TEC). My focus is on building scalable, high-performance applications using best practices and modern technologies. Passionate about solving complex problems and continuous learning.
-My goal is to contribute significantly to innovative projects that have a positive impact and to solve complex technological challenges through elegant and efficient solutions.
 
 ## Technical Skills
 ![Android](https://img.shields.io/badge/-Android-212121?style=flat-square&logo=android)
