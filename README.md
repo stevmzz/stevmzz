@@ -9,17 +9,15 @@ Passionate developer focused on creating innovative technological solutions. Com
     <td style="padding: 20px;">
       Computer Engineering student at Costa Rica Institute of Technology (TEC) with a passion for creating innovative solutions through technical excellence. I'm developing expertise in full-stack development while pursuing a vision to lead impactful, well-crafted projects.
       <br><br>
-      What drives my approach to technology:
       <ul>
         <li><b>Excellence in execution</b> - Committed to writing clean, efficient code and delivering high-quality solutions</li>
         <li><b>Organizational mindset</b> - Maintaining structured systems and methodical problem-solving approaches</li>
         <li><b>Balanced perspective</b> - Equal appreciation for aesthetic design and robust technical architecture</li>
-        <li><b>Leadership potential</b> - Developing skills to guide collaborative teams toward successful outcomes</li>
         <li><b>Continuous learning</b> - Constantly exploring new technologies and methodologies for growth</li>
       </ul>
     </td>
     <td width="300" align="center" style="padding: 20px;">
-      <img src="codingGIF (1).gif" alt="Coding Animation" width="350">
+      <img src="codingGIF (1).gif" alt="Coding Animation" width="300">
     </td>
   </tr>
 </table>
