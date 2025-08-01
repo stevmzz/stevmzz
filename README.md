@@ -19,6 +19,7 @@ Computer Engineering student at Costa Rica Institute of Technology (TEC) with a 
 ![Git](https://img.shields.io/badge/-Git-212121?style=flat-square&logo=git)
 ![HTML5](https://img.shields.io/badge/-HTML5-212121?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-212121?style=flat-square&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-212121?style=flat-square&logo=mysql)
 
 ## GitHub Statistics
 <div align="center">
